@@ -2,8 +2,8 @@ sudo apt install zsh
 sudo apt install git
 chsh -s $(which zsh)
 
-git config --global user.email "auni53@github.com"
-git config --global user.name "auni"
+git config --global user.email "aunu53@github.com"
+git config --global user.name "aunu"
 
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
